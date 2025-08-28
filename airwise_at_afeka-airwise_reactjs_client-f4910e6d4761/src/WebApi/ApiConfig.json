@@ -1,0 +1,6 @@
+{
+    "baseURL": "http://localhost:8084/ambient-intelligence",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }

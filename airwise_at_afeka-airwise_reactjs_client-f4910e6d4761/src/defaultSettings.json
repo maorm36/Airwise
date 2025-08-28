@@ -1,0 +1,6 @@
+{
+    "vatRate": 18,
+    "currency": "ILS",
+    "costPerKwh": 0.20,
+    "inHome": true
+}

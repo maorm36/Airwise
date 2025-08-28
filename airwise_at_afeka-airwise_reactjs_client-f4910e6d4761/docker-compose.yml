@@ -1,0 +1,12 @@
+services:
+  react-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"  # Expose port for Vite development server
+    volumes:
+      - .:/app
+      - /app/node_modules  # prevent container from overwriting local node_modules
+    environment:
+      - CHOKIDAR_USEPOLLING=true  # improves live reload on Linux/WSL
