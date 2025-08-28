@@ -1,0 +1,26 @@
+services:
+  smart-ac-api:
+    build: .
+    container_name: smart-ac-api
+    ports:
+      - "3001:3001"
+    volumes:
+      - .:/app
+    environment:
+      - NODE_ENV=development
+      - MONGODB_URI=mongodb://mongodb:27017/acsystem
+    depends_on:
+      - mongodb
+    command: sh -c "npm run seed && npm start"
+ 
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    restart: unless-stopped
+    ports:
+      - "27018:27017"
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:
