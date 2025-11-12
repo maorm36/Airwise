@@ -17,8 +17,14 @@ Testing
 
 <img width="600" alt="grade" src="https://github.com/user-attachments/assets/629943e8-24bf-4b05-a031-b99e56168c8c" />
 <br>
-the image is a bit blurred in some parts to an uploading issue :(
+<br>
+the image is a bit blurry in some parts due to an uploading issue :(
 <img width="600" alt="system" src="https://github.com/user-attachments/assets/1ad4d6f9-27ae-4d2f-b870-5ac23dc55767" />
+<br>
+<br>
+short system demonstration:
+https://github.com/user-attachments/assets/1f557bfe-3e5c-460b-b3b5-d8486c22ee17
+
 
 
 Made with ❤ by airwise team!
