@@ -16,9 +16,9 @@ Testing
 ## IMAGES
 
 <img width="600" alt="grade" src="https://github.com/user-attachments/assets/629943e8-24bf-4b05-a031-b99e56168c8c" />
-
+<br>
 the image is a bit blurred in some parts to an uploading issue :(
-<img width="300" alt="the system" src="https://github.com/user-attachments/assets/646df10c-6266-4c18-a345-195cfdd9738f" />
+<img width="600" alt="system" src="https://github.com/user-attachments/assets/1ad4d6f9-27ae-4d2f-b870-5ac23dc55767" />
 
 
 Made with ❤ by airwise team!
