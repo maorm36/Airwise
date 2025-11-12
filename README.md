@@ -15,7 +15,7 @@ Testing
 
 ## IMAGES
 
-<img width="300" alt="grade" src="https://github.com/user-attachments/assets/629943e8-24bf-4b05-a031-b99e56168c8c" />
+<img width="600" alt="grade" src="https://github.com/user-attachments/assets/629943e8-24bf-4b05-a031-b99e56168c8c" />
 
 the image is a bit blurred in some parts to an uploading issue :(
 <img width="300" alt="the system" src="https://github.com/user-attachments/assets/646df10c-6266-4c18-a345-195cfdd9738f" />
