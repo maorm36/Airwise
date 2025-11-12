@@ -22,7 +22,8 @@ the image is a bit blurry in some parts due to an uploading issue :(
 <img width="600" alt="system" src="https://github.com/user-attachments/assets/1ad4d6f9-27ae-4d2f-b870-5ac23dc55767" />
 <br>
 <br>
-short system demonstration:
+short demonstration about accessing ac devices in the following link: 
+<br>
 https://github.com/user-attachments/assets/1f557bfe-3e5c-460b-b3b5-d8486c22ee17
 
 
